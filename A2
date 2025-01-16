@@ -1,0 +1,6 @@
+# add two 8 bits numbers
+
+MVI A,55H
+MVI B,32H
+ADD B
+HLT
